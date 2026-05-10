@@ -18,7 +18,7 @@
 
 ### &nbsp;Who I Am
 
-I'm **Md. Fazla Rabbi Bindu** — a full-stack MERN developer and mobile app engineer at **Softsasi**, based in **Mymensingh, Bangladesh**. Also working as Software Engineer at **Fintech Point**, based in **Mymensingg, Bangladesh**. I build scalable, production-ready web and mobile applications — from fintech platforms to enterprise SaaS systems.
+I'm **Md. Fazla Rabbi Bindu** — a full-stack MERN developer and mobile app engineer at **Softsasi**, based in **Mymensingh, Bangladesh**. Also working as Software Engineer at **Fintech_Point**, based in **Mymensingg, Bangladesh**. I build scalable, production-ready web and mobile applications — from fintech platforms to enterprise SaaS systems.
 
 - &nbsp;**MERN Stack Developer** at [Softsasi](https://softsasi.com) — Web · Mobile · Fintech · SaaS
 - &nbsp;**Software Engineer**, at [Fintech Point](https://fintech-point.com) — Finech · SaaS
