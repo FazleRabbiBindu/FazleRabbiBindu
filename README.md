@@ -6,8 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5C4&center=true&vCenter=true&random=false&width=600&lines=MERN+Stack+Developer;React+Native+%7C+Laravel+%7C+Django+Flask;Fintech+%7C+SaaS+%7C+Enterprise+Systems;Clean+Code+%26+RESTful+APIs+%F0%9F%9A%80)]
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5C4&center=true&vCenter=true&random=false&width=600&lines=MERN+Stack+Developer;React+Native+%7C+Laravel+%7C+Django+Flask;Fintech+%7C+SaaS+%7C+Enterprise+Systems;Clean+Code+%26+RESTful+APIs+%F0%9F%9A%80)]()
 </div>
 
 ---
