@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Fazla%20Rabbi%20Bindu&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=MERN%20Stack%20Developer%20%C2%B7%20Mobile%20Engineer%20%C2%B7%20Fintech%20Builder&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Fazla%20Rabbi%20Bindu&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=MERN%20Stack%20Developer%20%C2%B7%20Software%20Engineer%20%C2%B7%20Fintech%20Builder&descAlignY=58&descSize=16" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5C4&center=true&vCenter=true&random=false&width=600&lines=MERN+Stack+Developer+%40+Softsasi;React+Native+%7C+Mobile+App+Engineer;Fintech+%7C+SaaS+%7C+Enterprise+Systems;Clean+Code+%26+RESTful+APIs+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5C4&center=true&vCenter=true&random=false&width=600&lines=MERN+Stack+Developer;React+Native+%7C+Software+Engineer;Fintech+%7C+SaaS+%7C+Enterprise+Systems;Clean+Code+%26+RESTful+APIs+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
